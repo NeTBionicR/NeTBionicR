@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a smart bin to auto detect types of trash<br>🌱 I’m currently learning Lua to code my very own Roblox game<br>🤝 Always happy to network and gain experience! (feel free to reach out)
+🔭 I’m currently working on a smart bin to auto detect types of trash<br>🌱 I’m currently learning Lua to code my very own Roblox game<br>🤝 Always developping to be a better person than yesterday
 
 
 ## 🌐 Socials:
