@@ -81,9 +81,10 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,discord,html,java,js,kotlin,py,scala,azure,firebase,githubpages,spark,kafka,hadoop,hive,bulma,express,npm,nodejs,nodemon,opencv,react,vue,wordpress,apache,mssql,mongodb,mysql,sqlite,canva,keras,matplotlib,numpy,pandas,pytorch,scikit,git,github,gitlab,arduino,cisco,docker,eslint,pihole,raspberrypi,postman,swagger,trello,notion&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cpp,css,html,java,js,kotlin,py,scala,azure,firebase,githubpages,spark,kafka,hadoop,hive,bulma,express,npm,nodejs,nodemon,opencv,react,vue,wordpress,apache,mssql,mongodb,mysql,sqlite,canva,keras,matplotlib,numpy,pandas,pytorch,scikit,git,github,gitlab,arduino,cisco,docker,eslint,pihole,raspberrypi,postman,swagger,trello,notion&perline=14" />
   </a>
 </p>
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
