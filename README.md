@@ -1,5 +1,5 @@
 <!--horizontal divider(gradiant)-->
-![snake gif](https://github.com/NeTBioniR/NeTBioniR/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/NeTBionicR/NeTBionicR/blob/output/github-contribution-grid-snake.gif)
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
