@@ -25,11 +25,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on a smart bin to auto detect types of trash
+- 🔭 I’m currently working on a smart bin to auto detect types of trash!
 
-- 🌱 I’m currently learning Lua to code my very own Roblox game
+- 🌱 I’m currently learning Lua to code my very own Roblox game!
 
-- ☁️ Currently finishing my third year at College Maisonneuve
+- ☁️ Currently finishing my third year at College Maisonneuve!
+
+- 📷 If I'm working on my code, I'm honing my photography skills!
 
 - 📫 Always looking for new experiences and mentorships!
 
