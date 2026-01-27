@@ -25,11 +25,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on a smart bin to auto detect types of trash!
+- 🎓 Software engineering student at Concordia University
 
-- 🌱 I’m currently learning Lua to code my very own Roblox game!
-
-- ☁️ Currently finishing my third year at College Maisonneuve!
+- 🌐 Experience in Full Stack Development
 
 - 📷 If I'm not working on my code, I'm honing my photography skills!
 
