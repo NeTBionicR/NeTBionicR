@@ -8,14 +8,6 @@
   </ul>
 </div>
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://raw.githubusercontent.com/NeTBionicR/NeTBionicR/output/github-contribution-grid-snake-dark.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -28,8 +20,6 @@
 - 🎓 Software engineering student at Concordia University
 
 - 🌐 Experience in Full Stack Development
-
-- 📷 If I'm not working on my code, I'm honing my photography skills!
 
 - 📫 Always looking for new experiences and mentorships!
 
